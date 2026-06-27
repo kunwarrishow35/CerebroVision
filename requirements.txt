@@ -1,0 +1,9 @@
+tensorflow>=2.20.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+opencv-python>=4.10.0
+scikit-learn>=1.5.0
+tf-keras-vis>=0.8.7
+pillow>=10.0.0
+jupyter>=1.1.0
+ipykernel>=6.29.0
